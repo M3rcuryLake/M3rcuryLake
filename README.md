@@ -7,12 +7,12 @@ I'm Ankit Mukherjee, a freshman at a well-respected uni, with experience in Pyth
 ### 🌐 *Socials*: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/run.____.away) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-mukherjee-0844a3325) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/neptunym) [![Website](https://img.shields.io/badge/Website-8A2BE2?logo=Cloudflare%20Pages)](https://m3rcurylake.pages.dev/) [![Email](https://img.shields.io/badge/Email-A2BE28?logo=Gmail)](mailto:ankitmukherjee814@gmail.com) 
 
 ## 📊GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M3rcurylake&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=M3rcurylake&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3rcurylake&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=m3rcurylake&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=m3rcurylake&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m3rcurylake&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M3rcurylake&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=m3rcurylake&icon=0&color=2)](https://visitcount.itsvg.in)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
