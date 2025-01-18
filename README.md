@@ -12,7 +12,7 @@ I'm Ankit Mukherjee, a freshman at a well-respected uni, with experience in Pyth
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m3rcurylake&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=m3rcurylake&icon=0&color=2)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=m3rcurylake)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
