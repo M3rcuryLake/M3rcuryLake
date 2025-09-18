@@ -2,12 +2,7 @@
 
   
 ## **_Hi, I'm `Ankit`_**
-<table>
-<tr>
-<td>
-<div align="center">
 
-### about.
 
 
 Average undergrad, building and breaking stuff. mostly breaking. And flying cars they promised.
@@ -26,11 +21,6 @@ Anyways checkout my [website](https://m3rcurylake.pages.dev/) for my annual schi
 
 ![](https://komarev.com/ghpvc/?username=m3rcurylake)
 
-
-</div>
-</table>
-</tr>
-</td> 
 
 </div>
 
