@@ -5,7 +5,7 @@
 
 
 
-Average undergrad, building and breaking stuff. mostly breaking. And flying cars they promised.
+Average undergrad, building and breaking stuff. Mostly breaking.
 Anyways checkout my [website](https://m3rcurylake.pages.dev/) for my annual schizo post.
 
 
