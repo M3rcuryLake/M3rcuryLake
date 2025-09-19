@@ -9,21 +9,34 @@ Average undergrad, building and breaking stuff. mostly breaking. And flying cars
 Anyways checkout my [website](https://m3rcurylake.pages.dev/) for my annual schizo post.
 
 
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![assembly](https://img.shields.io/badge/x86~64%20Assembly-grey?style=for-the-badge&logo=assemblyscript)
+![armasm](https://img.shields.io/badge/ARM~ASM-yellow?style=for-the-badge&logo=assemblyscript)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=m3rcurylake&show_icons=true&theme=material-palenight" />
 
-<br></br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=14&duration=2700&pause=1000&color=9FF700&center=true&vCenter=true&random=true&width=435&lines=%22The+ceiling+hummed+Morse+code+about+unpaid+taxes.%22;%22My+left+sock+keeps+whispering+stock+market+tips+to+the+toaster.%22;%22A+giraffe+just+ordered+three+espressos+and+left+without+paying.%22;%22Bananas+are+just+moons+practicing+cosplay.%22;%22I+sneezed%2C+and+the+refrigerator+applauded+politely.%22;%22Time+is+just+soup+someone+forgot+to+stir.%22;%22Your+shadow+filed+a+restraining+order+against+the+mirror.%22)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=m3rcurylake)
 
 
 </div>
 
+
+
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=m34furys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=m34furys&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m34furys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=m34furys&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!---
